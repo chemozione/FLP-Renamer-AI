@@ -2,7 +2,7 @@
 
 > **Intelligent FL Studio Project Mixer Track Organization**
 > ## ⬇️ Download Release
-Download the _**[FLP Renamer AI v1.0 installer](https://github.com/chemozione/FLP-Renamer-AI/releases/download/v1.0.0/FLP_Renamer_AI_1.0.0_Setup.exe)**_ from GitHub
+> Download the _**[FLP Renamer AI v1.0 installer](https://github.com/chemozione/FLP-Renamer-AI/releases/download/v1.0.0/FLP_Renamer_AI_1.0.0_Setup.exe)**_ from GitHub
 
 ![Alt text](/Screenshot.png?raw=true "Renamed FLP Screenshot in FL Studio")
 
