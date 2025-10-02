@@ -3,8 +3,8 @@
 > **Intelligent FL Studio Project Mixer Track Organization**
 > ## ⬇️ Download Release
 > Download the _**[FLP Renamer AI v1.0 installer](https://github.com/chemozione/FLP-Renamer-AI/releases/download/v1.0.0/FLP_Renamer_AI_1.0.0_Setup.exe)**_ from GitHub
-
-![Alt text](/Screenshot.png?raw=true "Renamed FLP Screenshot in FL Studio")
+> 
+> ![Alt text](/Screenshot.png?raw=true "Renamed FLP Screenshot in FL Studio")
 
 A powerful AI-driven tool that automatically categorizes and renames mixer tracks in FL Studio project files (.flp). Built with machine learning models trained on thousands of track names, it intelligently suggests meaningful prefixes and color coding for better project organization.
 
