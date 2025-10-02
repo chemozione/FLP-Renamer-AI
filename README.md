@@ -63,7 +63,7 @@ Our machine learning models achieve exceptional accuracy:
 ### Download from Releases
 1. Go to the [Releases](https://github.com/chemozione/FLP-Renamer-AI/releases) page
 2. Download and install _**[the latest release](https://github.com/chemozione/FLP-Renamer-AI/releases/download/v1.0.0/FLP_Renamer_AI_1.0.0_Setup.exe)**_
-3. Run `FLP Renamer AI` and enjoy!
+3. Run **FLP Renamer AI** and enjoy!
 
 ## 📖 User Guide
 
