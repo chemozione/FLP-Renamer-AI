@@ -60,21 +60,10 @@ Our machine learning models achieve exceptional accuracy:
 - FL Studio (for .flp file compatibility)
 - Python 3.8+ (for AI model components)
 
-### Quick Start
-
-> **⚠️ Important**: This repository uses Git LFS for large executable files. Downloading as ZIP from GitHub will give you corrupted files. See [Download Instructions](DOWNLOAD_INSTRUCTIONS.md) for proper setup.
-
-#### Option 1: Clone with Git LFS (Recommended)
-```bash
-git clone https://github.com/chemozione/FLP-Renamer-AI.git
-cd FLP-Renamer-AI
-git lfs pull
-```
-
-#### Option 2: Download from Releases
+### Download from Releases
 1. Go to the [Releases](https://github.com/chemozione/FLP-Renamer-AI/releases) page
-2. Download the latest release package
-3. Extract and run `FLPRenamerUI.exe`
+2. Download and install _**[the latest release](https://github.com/chemozione/FLP-Renamer-AI/releases/download/v1.0.0/FLP_Renamer_AI_1.0.0_Setup.exe)**_
+3. Run `FLP Renamer AI` and enjoy!
 
 ## 📖 User Guide
 
